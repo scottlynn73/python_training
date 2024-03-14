@@ -1,0 +1,2 @@
+# python_training
+strathclyde_uni_python_class
